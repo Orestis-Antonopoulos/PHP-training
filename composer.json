@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-ai/php-ml": "^0.10.0",
+        "rubix/ml": "^2.4"
+    },
+    "php-download-project-id": 102614
+}
