@@ -33,6 +33,7 @@
         <p>Projects</p>
         <a href="projects/pathfinder.php"><button style="padding:10px; background-color:#eee; border-radius:10px;">pathfinder project</button></a>
         <a href="projects/simple_2D_checkerboard.php"><button style="padding:10px; background-color:#eee; border-radius:10px;">checkerboard</button></a>
+        <a href="projects/rpg.php"><button style="padding:10px; background-color:#eee; border-radius:10px;">RPG</button></a>
     </div>
     <div class="grid-item">
         <p>Temp</p>
