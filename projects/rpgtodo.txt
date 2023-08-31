@@ -1,0 +1,42 @@
+Graphics
+    logo
+    upgrades
+music
+    intro: baldurs gate 2
+    ingame:
+    Death ending: Adagio for strings
+    Victory ending: Silk road online theme
+sfx
+
+
+
+atk modifier?
+    enemies: 
+        every 5-Lv +1 atk modifier + extras
+    player:
+        every 4-Lv +1 attribute of choice
+        atk modifier: d20 + (DEX mod) + extras
+
+Implement Opponent Traits
+    Strength, Dexterity, Constitution
+    Extra on attack rolls
+Modify Attack Roll Mechanism
+    1 is always a miss
+    20 is a critical hit (double damage)
+Implement Equipment
+    Start with weapons for Level 1 players
+    Define equipment slots, titles, and bonuses
+Randomized Drops
+    Define drop chances in JSON
+    Drops can include gold, potions, equipment
+Inventory System
+    No inventory, only standard healing potions
+Combat System
+    Turn-based
+    Player options: Attack, Defend, Flee, Inspect (not an action)
+    Player always has the initiative
+Main Quest Bosses
+    Available at Levels 5, 10, 15, 20
+    Player can choose to face them once they reach or surpass these levels
+Winning Condition
+    Defeat all main quest bosses in ascending order
